@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TextMe</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="name">name</string>
+    <string name="title_activity_person">PersonActivity</string>
+    <string name="app_version">v3.0.1</string>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="sample_show_log">Show Log</string>
+    <string name="sample_hide_log">Hide Log</string>
+
+</resources>
